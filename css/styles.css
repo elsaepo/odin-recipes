@@ -1,0 +1,17 @@
+h1, h2, h3 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(55, 45, 55);
+}
+
+li, a, p {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: rgb(55, 45, 55);
+}
+
+a:hover {
+    color: rgb(110, 90, 110);
+}
